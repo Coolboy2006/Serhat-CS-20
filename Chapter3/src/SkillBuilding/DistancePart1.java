@@ -17,7 +17,6 @@ public class DistancePart1
 		System.out.println("The total distance is Segment1 + Segment2 + Segment3");
 		System.out.print(Segment1 + Segment2 + Segment3);
 		System.out.print("km");
-
 	}
 
 }

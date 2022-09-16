@@ -14,7 +14,6 @@ public class TempConverter
 		double Tempr= (0.555*(Temperature-32));
 		System.out.print("Your temperature in degrees Celsius is  ");
 		System.out.print(dc.format(Tempr));
-
 	}
 
 }

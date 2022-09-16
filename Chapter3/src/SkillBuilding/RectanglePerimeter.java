@@ -5,8 +5,7 @@ public class RectanglePerimeter
 
 	public static void main(String[] args) 
 	{
-		System.out.println("Perimeter of a rectangle is 2w + 2l");
-		
+		System.out.println("Perimeter of a rectangle is 2w + 2l");		
 		int Width=4;
 		int Length=13;
 		System.out.println("");
